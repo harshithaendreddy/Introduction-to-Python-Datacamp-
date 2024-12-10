@@ -14,8 +14,6 @@
 - **Database Connectivity:** Analyze datasets effectively.  
 - **General Purpose:** Known as the "Swiss Army Knife" of programming.  
 
-### **Goal:**  
-Build data science coding skills step-by-step to unlock Python’s power.  
 
 ---
 
