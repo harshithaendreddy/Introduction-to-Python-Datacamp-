@@ -26,9 +26,8 @@ print(height)  # Outputs: 1.79
 ## **3. Calculating BMI (Body Mass Index)**  
 ### **Formula**  
 The formula for BMI is:  
-\[
-\text{BMI} = \frac{\text{weight (kg)}}{\text{height (m)}^2}
-\]  
+**BMI** = `weight (kg)` / `(height (m) ^ 2)`
+
 
 ### **Using Variables to Calculate BMI**  
 ```python
