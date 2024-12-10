@@ -7,7 +7,7 @@ Python isn't just a powerful calculator; it allows you to save values for reuse,
 
 ## **2. Variables**  
 ### **Definition**  
-A variable is a name used to store a value. Variables in Python are:  
+A variable is a name of the memory location used to store a value. Variables in Python are:  
 - **Case-sensitive:** For example, `Height` and `height` are different.  
 - **Assigned using the equals sign (`=`):** This associates a name with a value.  
 
