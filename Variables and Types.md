@@ -114,14 +114,6 @@ Operators like `+` behave differently for numerical types and strings.
 
 ---
 
-## **8. Practice and Application**  
-### **What to Do**  
-- Create variables to store values.  
-- Experiment with different types (numerical, strings, booleans).  
-- Understand how operators interact with various types.  
-
----
-
 ## **Key Takeaways**  
 1. **Variables:** Allow you to store and reuse values efficiently.  
 2. **Data Types:** Python supports multiple types, including numerical (int, float), strings, and booleans.  
