@@ -1,7 +1,7 @@
 # Python Lists
 
 
-## 1. Python Data Types (00:09 - 00:33)
+## 1. Python Data Types 
 Before exploring lists, let's quickly recap Python's basic data types:
 
 1. **int**: Represents integers (e.g., `1`, `42`, `-7`).
@@ -18,7 +18,7 @@ name = "Alice"  # str
 is_happy = True  # bool
 ```
 
-## 2. The Problem (00:33 - 00:50)
+## 2. The Problem 
 In data analysis, you'll often deal with many data points. For instance, if you want to record the height of everyone in your family, creating a new variable for each person would be inefficient:
 
 ```python
@@ -33,7 +33,7 @@ Lists allow you to store multiple data points in a single structure.
 
 ---
 
-## 3. What Are Python Lists? (00:50 - 01:38)
+## 3. What Are Python Lists? 
 ### **Definition**
 A list is a collection of values grouped under a single name. These values are enclosed in square brackets (`[]`) and separated by commas.
 
@@ -55,7 +55,7 @@ Here, `family_heights` is a single variable holding all the height values.
 
 ---
 
-## 4. Lists With Mixed Data Types (01:38 - 02:34)
+## 4. Lists With Mixed Data Types 
 ### **Adding Names to the List**
 You can include strings alongside numbers to specify which height belongs to whom:
 
@@ -80,7 +80,7 @@ Here, `fam2` is a list containing four sublists. Each sublist represents one fam
 
 ---
 
-## 5. List Type and Functionality (02:34 - 02:58)
+## 5. List Type and Functionality 
 Lists are a fundamental Python data type. Like other types (e.g., `int`, `str`), lists come with specific tools and behaviors.
 
 ### **Identifying List Types**
